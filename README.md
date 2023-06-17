@@ -6,4 +6,4 @@ Berikut kontributor dalam project ini:
 1. Julius Rakha Bowo Laksono
 2. [Petrus Krisna Priya Nanda](https://github.com/krisnanandaa/)
 3. Yohanes Rio Septian
-4. [Fransiskus Jremiegi](https://github.com/jremiegii/)
+4. [Fransiskus Jremiegi S](https://github.com/jremiegii/)
